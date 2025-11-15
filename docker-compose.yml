@@ -8,8 +8,6 @@ x-common:
     #     changed in the following commands
   panel: &panel-environment
     #
-    # Change this to your panel URL
-    APP_URL: 'https://panel.kunet.dev'
 
     # A list of valid timezones can be found here: http://php.net/manual/en/timezones.php
     APP_TIMEZONE: 'UTC'
